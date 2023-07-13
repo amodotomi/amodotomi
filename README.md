@@ -133,8 +133,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/amodotomi/amodotomi/output/snake.svg" alt="Snake animation" />
 
 ###
